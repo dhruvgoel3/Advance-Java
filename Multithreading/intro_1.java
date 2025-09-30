@@ -1,4 +1,3 @@
-package Multithreaing;
 
 public class intro_1 {
     public static void main(String[] args) {

@@ -1,4 +1,3 @@
-package Multithreaing;
 
 public class ThreadMethods extends Thread {
     @Override
